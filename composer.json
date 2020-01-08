@@ -1,0 +1,19 @@
+{
+    "name": "siteconexion/colegioquimicohn",
+    "description": "sitio web para el colegio de quimico y farmaceuticos de honduras, desarrollado por el ingeniero Marvin Toro",
+    "type": "project",
+    "require": {
+        "php": "^7.2"
+    },
+    "require-dev": {
+        "php": "^7.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marvin Toro",
+            "email": "marvinlink07@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
