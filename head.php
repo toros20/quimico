@@ -20,13 +20,13 @@
     <!-- Font-awesome CSS-->
     <link rel="stylesheet" href="css/font-awesome.min.css">
     <!-- Owl Caousel CSS -->
-    <link rel="stylesheet" href="vendor/OwlCarousel/owl.carousel.min.css">
-    <link rel="stylesheet" href="vendor/OwlCarousel/owl.theme.default.min.css">
+    <link rel="stylesheet" href="vendor2/OwlCarousel/owl.carousel.min.css">
+    <link rel="stylesheet" href="vendor2/OwlCarousel/owl.theme.default.min.css">
     <!-- Main Menu CSS -->
     <link rel="stylesheet" href="css/meanmenu.min.css">
     <!-- nivo slider CSS -->
-    <link rel="stylesheet" href="vendor/slider/css/nivo-slider.css" type="text/css" />
-    <link rel="stylesheet" href="vendor/slider/css/preview.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="vendor2/slider/css/nivo-slider.css" type="text/css" />
+    <link rel="stylesheet" href="vendor2/slider/css/preview.css" type="text/css" media="screen" />
     <!-- Magic popup CSS -->
     <link rel="stylesheet" href="css/magnific-popup.css">
     <!-- Switch Style CSS -->

@@ -99,8 +99,8 @@
     <!-- WOW JS -->
     <script src="js/wow.min.js"></script>
     <!-- Nivo slider js -->
-    <script src="vendor/slider/js/jquery.nivo.slider.js" type="text/javascript"></script>
-    <script src="vendor/slider/home.js" type="text/javascript"></script>
+    <script src="vendor2/slider/js/jquery.nivo.slider.js" type="text/javascript"></script>
+    <script src="vendor2/slider/home.js" type="text/javascript"></script>
     <!-- Owl Cauosel JS -->
     <script src="vendor/OwlCarousel/owl.carousel.min.js" type="text/javascript"></script>
     <!-- Meanmenu Js -->
