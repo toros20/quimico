@@ -137,10 +137,10 @@
 
                             <li>
                                 <div class="news-img-holder">
-                                    <a href="#"><img src="img/news/2.jpg" class="img-responsive" alt="news"></a>
+                                    <a href="galeria_certificacion.php"><img src="img/certificacion/4.jpg" class="img-responsive" style="width:90%"></a>
                                 </div>
                                 <div class="news-content-holder">
-                                    <h3><a href="single-news.html">Ceremonia de Acreditación </a></h3>
+                                    <h3><a href="galeria_certificacion.php">Ceremonia de Acreditación </a></h3>
                                     <div class="post-date">19 de Noviembre, 2019</div>
                                     <p>El Organismo Hondureño de  Acreditación (OHA)  hizo entrega del Certificado de Acreditación al Laboratorio de Especialidades </p>
                                 </div>
