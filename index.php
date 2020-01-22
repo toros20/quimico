@@ -115,10 +115,10 @@
                         <ul class="news-wrapper">
                             <li>
                                 <div class="news-img-holder">
-                                    <a href="#"><img src="img/news/1.jpg" class="img-responsive" alt="news"></a>
+                                    <a href="galeria_cena2019.php"><img src="img/cena2019/2.jpg" class="img-responsive" style="width:90%"></a>
                                 </div>
                                 <div class="news-content-holder">
-                                    <h3><a href="single-news.html">Cena Navideña 2019</a></h3>
+                                    <h3><a href="galeria_cena2019.php">Cena Navideña 2019</a></h3>
                                     <div class="post-date">14 Diciembre, 2019</div>
                                     <p>En las instalaciones del salón del Colegio en colonia Lara.</p>
                                 </div>
