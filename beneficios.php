@@ -54,6 +54,7 @@
                         <p>Por causas de enfermedades o accidentes.</p>
                     </div>
                 </div>
+    
             </div>
         </div>
     </div>
@@ -137,6 +138,24 @@
                             </div>
                         </div>
                     </div>
+                    <hr>
+                    <div class="course-details-inner">
+                        <h2 class="title-default-left title-bar-high" style="width:346px;">Renta del Local para Eventos</h2>                        
+                        <div class="course-details-tab-area">
+                            <div class="row">
+                                <div class="col-lg-12 col-md-12 col-sm-12">
+                                    <div class="tab-content">
+                                        <div class="tab-pane fade active in" id="features">
+                                            <ul class="course-feature">
+                                                <li>Para la celebración de Diversos Eventos.</li>
+                                                
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div><hr>
 
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">

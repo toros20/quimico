@@ -119,28 +119,30 @@
                                 </div>
                                 <div class="news-content-holder">
                                     <h3><a href="single-news.html">Cena Navideña 2019</a></h3>
-                                    <div class="post-date">Dic 12, 2019</div>
-                                    <p>Pellentese turpis dignissim amet area ducation process facilitating Knowledge.</p>
+                                    <div class="post-date">14 Diciembre, 2019</div>
+                                    <p>En las instalaciones del salón del Colegio en colonia Lara.</p>
                                 </div>
                             </li>
-                            <li>
-                                <div class="news-img-holder">
-                                    <a href="#"><img src="img/news/2.jpg" class="img-responsive" alt="news"></a>
-                                </div>
-                                <div class="news-content-holder">
-                                    <h3><a href="single-news.html">Juramentación Nuevos Agremiados</a></h3>
-                                    <div class="post-date">Nov 15, 2019</div>
-                                    <p>Pellentese turpis dignissim amet area ducation process facilitating Knowledge.</p>
-                                </div>
-                            </li>
+                            
                             <li>
                                 <div class="news-img-holder">
                                     <a href="#"><img src="img/news/3.jpg" class="img-responsive" alt="news"></a>
                                 </div>
                                 <div class="news-content-holder">
-                                    <h3><a href="single-news.html">Forum de Química 2019</a></h3>
-                                    <div class="post-date">Oct 10, 2019</div>
-                                    <p>Pellentese turpis dignissim amet area ducation process facilitating Knowledge.</p>
+                                    <h3><a href="single-news.html">Almuerzo para Jubilados</a></h3>
+                                    <div class="post-date">7 de Diciembre, 2019</div>
+                                    <p>Celebración por parte de la Junta Administradora del Fondo de Auxilio Mutuo.</p>
+                                </div>
+                            </li>
+
+                            <li>
+                                <div class="news-img-holder">
+                                    <a href="#"><img src="img/news/2.jpg" class="img-responsive" alt="news"></a>
+                                </div>
+                                <div class="news-content-holder">
+                                    <h3><a href="single-news.html">Ceremonia de Acreditación </a></h3>
+                                    <div class="post-date">19 de Noviembre, 2019</div>
+                                    <p>El Organismo Hondureño de  Acreditación (OHA)  hizo entrega del Certificado de Acreditación al Laboratorio de Especialidades </p>
                                 </div>
                             </li>
                         </ul>
@@ -160,7 +162,7 @@
                                     </div>
                                 </div>
                                 <div class="event-content-holder">
-                                    <h3><a href="single-event.html">Asamblea General 2020</a></h3>
+                                    <h3><a href="single-event.html">Juramentación de nuevos colegiados </a></h3>
                                     <p>Pellentese turpis dignissim amet area ducation process facilitating Knowledge. Pellentese turpis dignissim amet area ducation process facilitating Knowledge. Pellentese turpis dignissim amet area ducation.</p>
                                     <ul>
                                         <li>04:00 PM - 06:00 PM</li>
@@ -177,7 +179,7 @@
                                     </div>
                                 </div>
                                 <div class="event-content-holder">
-                                    <h3><a href="single-event.html">Primera Capacitación 2020</a></h3>
+                                    <h3><a href="single-event.html">Taller para dictaminar Análisis Toxicológicos </a></h3>
                                     <p>Pellentese turpis dignissim amet area ducation process facilitating Knowledge. Pellentese turpis dignissim amet area ducation process facilitating Knowledge. Pellentese turpis dignissim amet area ducation.</p>
                                     <ul>
                                         <li>03:00 PM - 05:00 PM</li>
@@ -200,21 +202,21 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 counter1-box wow fadeInUp" data-wow-duration=".5s" data-wow-delay=".20s">
-                        <h2 class="about-counter title-bar-counter" data-num="3600">+3600</h2>
+                        <h2 class="about-counter title-bar-counter" data-num="5153">5153</h2>
                         <p>AGREMIADOS</p>
                     </div>
                     <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 counter1-box wow fadeInUp" data-wow-duration=".5s" data-wow-delay=".40s">
-                        <h2 class="about-counter title-bar-counter" data-num="20">56</h2>
+                        <h2 class="about-counter title-bar-counter" data-num="57">57</h2>
                         <p>
                         AÑOS DE fUNDACIÓN</p>
                     </div>
                     <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 counter1-box wow fadeInUp" data-wow-duration=".5s" data-wow-delay=".60s">
-                        <h2 class="about-counter title-bar-counter" data-num="56">15</h2>
-                        <p>Talleres</p>
+                        <h2 class="about-counter title-bar-counter" data-num="1196">1196</h2>
+                        <p>Farmacias Independientes</p>
                     </div>
                     <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 counter1-box wow fadeInUp" data-wow-duration=".5s" data-wow-delay=".80s">
-                        <h2 class="about-counter title-bar-counter" data-num="77">45</h2>
-                        <p>Nuevos Regsitross</p>
+                        <h2 class="about-counter title-bar-counter" data-num="1885">1885</h2>
+                        <p>Número de establecimientos</p>
                     </div>
                 </div>
             </div>
@@ -462,7 +464,11 @@
      
     
     </div> <!--End Of Wraper-->
-
+    
+    <div align="center" id="sfclqmqlwu2xpwwmbjdr5nm5wanztjskkzu"></div>
+        <script type="text/javascript" src="https://counter2.wheredoyoucomefrom.ovh/private/counter.js?c=lqmqlwu2xpwwmbjdr5nm5wanztjskkzu&down=async" async></script>
+        <noscript><a href="https://www.freecounterstat.com" title="free counter"><img src="https://counter2.wheredoyoucomefrom.ovh/private/freecounterstat.php?c=lqmqlwu2xpwwmbjdr5nm5wanztjskkzu" border="0" title="free counter" alt="free counter"></a></noscript>
+    
 </body>
    <!-- Main Body Area End Here -->
    <?php

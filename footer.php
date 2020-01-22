@@ -10,9 +10,7 @@
                                     <!-- <p>Praesent vel rutrum purus. Nam vel dui eu sus duis dignissim dignissim. Suspenetey disse at ros tecongueconsequat.Fusce sit amet rna feugiat.</p> -->
                                 </div>
                                 <ul class="footer-social">
-                                    <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                                    <li><a target="_blank" href="https://www.facebook.com/CQFHN/?tn-str=k*F"><i class="fa fa-facebook" aria-hidden="true"></i></a></li> 
                                 </ul>
                             </div>
                         </div>
@@ -39,40 +37,17 @@
                                 </ul>
                             </div>
                         </div>
-                        <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                             <div class="footer-box">
                                 <h3>Contáctanos</h3>
                                 <ul class="corporate-address">
-                                    <li><i class="fa fa-phone" aria-hidden="true"></i><a href="Phone(01)800433633"> (504)+ 2221-4488 </a></li>
-                                    <li><i class="fa fa-envelope-o" aria-hidden="true"></i>info@colegioquimicohn.com</li>
-                                    <li><i class="fa fa-map-o"></i> Col. Lara No.636, Av. José Martí, Apartado 759 Tegucigalpa, M.D.C., Honduras, C.A.</li>
+                                    <li><i class="fa fa-phone" aria-hidden="true"></i><a href="Phone(01)800433633">TGU. (504)+ 2221-4488 </a></li>                                   
+                                    <li><i class="fa fa-phone" aria-hidden="true"></i><a href="Phone(01)800433633">SPS (504)+ 2566-1084 </a></li>
+                                    <li><i class="fa fa-envelope-o" aria-hidden="true"></i>colegioquimico.hn@gmail.com</li>
+                                    <li><i class="fa fa-map-o"></i>TGU: Col. Lara No.636, Av. José Martí, Apartado 759 </li>
+                                    <li><i class="fa fa-map-o"></i>SPS: Col. Jardines del valle 1 y 2 avenida,  4 calle , 1 etapa.</li>
                                 </ul>
                                 
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
-                            <div class="footer-box">
-                                <h3>Galería de Instalaciones</h3>
-                                <ul class="flickr-photos">
-                                    <li>
-                                        <a href="#"><img class="img-responsive" src="img/footer/1.jpg" alt="flickr"></a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><img class="img-responsive" src="img/footer/2.jpg" alt="flickr"></a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><img class="img-responsive" src="img/footer/3.jpg" alt="flickr"></a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><img class="img-responsive" src="img/footer/4.jpg" alt="flickr"></a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><img class="img-responsive" src="img/footer/5.jpg" alt="flickr"></a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><img class="img-responsive" src="img/footer/6.jpg" alt="flickr"></a>
-                                    </li>
-                                </ul>
                             </div>
                         </div>
                     </div>

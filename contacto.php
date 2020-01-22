@@ -20,31 +20,46 @@
                     <ul>
                         <li>
                             <i class="fa fa-phone" aria-hidden="true"></i>
-                            <h3>Tel&eacute;fono</h3>
+                            <h3>Tel&eacute;fono Tegucigalpa</h3>
                             <p>(+504) 2221-4488 /  2236-7302</p> 
+
+                            <i class="fa fa-phone" aria-hidden="true"></i>
+                            <h3>Tel&eacute;fono San Pedro Sula</h3>
+                            <p>(+504) 2566-1084</p> 
                            
                         </li>
                         <li>
                             <i class="fa fa-whatsapp" aria-hidden="true"></i>
                             <h3>WhatsApp</h3>
-                            <p>(+504) 999-9999</p>
+                            <p>(+504) 3185-3539</p>
+                            <p>LEF:(+504)3386-7233</p>
+                            <p>Secretaria del Colegio:(+504) 3150-2196 </p>
+                            <p>contabilidad del Colegio:(+504) 3185-6982 </p>
                         </li>
                         <li>
                             <i class="fa fa-map-marker" aria-hidden="true"></i>
-                            <h3>Direcci&oacute;n</h3>
+                            <h3>Direcci&oacute;n Tegucigalpa</h3>
                             <p>Col. Lara No.636, Av. José Martín</p>
                             <p>Apartado 759 </p>
-                            <p>Tegucigalpa, M.D.C., Honduras, C.A.</p>
+
+                            <i class="fa fa-map-marker" aria-hidden="true"></i>
+                            <h3>Direcci&oacute;n San Pedro Sula</h3>
+                            <p>Col. Jardines del valle 1 y 2 avenida,  4 calle, 1 etapa.</p>
+                    
                         </li>
                         <li>
                             <i class="fa fa-envelope-o" aria-hidden="true"></i>
                             <h3>E-mail</h3>
-                            <p>info@colegioquimicohn.com</p>
+                            <p>colegioquimico.hn@gmail.com</p>
+
+                            <i class="fa fa-envelope-o" aria-hidden="true"></i>
+                            <h3>E-mail de Inspectoria</h3>
+                            <p>inspectoriaquimicocqfh@yahoo.com</p>
                         </li>
                         <li>
                             <h3>Nuestra Red Social</h3>
                             <ul class="contact-social">
-                                <li><a target="_blank" href=""><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                <li><a target="_blank" href="https://www.facebook.com/CQFHN/?tn-str=k*F"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
                                 
                             </ul>
                         </li>
@@ -95,15 +110,34 @@
             </div>
         </div>
     </div>
+    <div class="row" align="center">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 p2" >
+                <h2 >Ubicación Tegucigalpa</h2>
+            </div>
+    </div>
     <div class="container-fluid">
-        <div class="row">
-            <div class="google-map-area">
+            <div class="google-map-area" style="margin-top:5px;">
                 <div id="googleMap" style="width:100%; height:395px;">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15478.199237651994!2d-87.178414!3d14.1037324!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x21da8d13cefaf972!2sColegio%20de%20Qu%C3%ADmico%20Farmac%C3%A9uticos%20de%20Honduras!5e0!3m2!1ses-419!2shn!4v1578448480578!5m2!1ses-419!2shn" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15478.199237651994!2d-87.178414!3d14.1037324!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x21da8d13cefaf972!2sColegio%20de%20Qu%C3%ADmico%20Farmac%C3%A9uticos%20de%20Honduras!5e0!3m2!1ses-419!2shn!4v1578448480578!5m2!1ses-419!2shn" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
                 </div>
             </div>
-        </div>
     </div>
+    <hr><hr><hr>
+
+    <div class="row" align="center">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 p2" >
+                <h2 >Ubicación San Pedro Sula</h2>
+            </div>
+    </div>
+    <div class="container-fluid">
+            <div class="google-map-area" style="margin-top:5px;">
+                <div id="googleMap" style="width:100%; height:395px;">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1616.2465339383145!2d-88.02515995842172!3d15.532567623868724!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f665b242a7a7195%3A0x6ceee8ae91d94ae5!2sColegio%20De%20Quimicos%20Farmaceuticos%20De%20Honduras!5e0!3m2!1ses-419!2shn!4v1579581732002!5m2!1ses-419!2shn" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+                </div>
+            </div>
+    </div>
+   
+
 </div>
 <!-- Contact Us Page 1 Area End Here -->
 

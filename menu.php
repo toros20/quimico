@@ -36,6 +36,7 @@
                                                 <li><a href="organigrama.php">Organigrama</a></li>
                                                 <li><a href="juntadirectiva.php">Junta Directiva (2017-2020)</a></li>
                                                 <li><a href="tribunaldehonor.php">Tribunal de Honor</a></li>
+                                                <li><a href="mision_vision.php">Misión y Visión</a></li>
                                                 <li><a href="historia.php">Historia</a></li>
                                                 <li><a href="instalaciones.php">Instalaciones</a></li>
                                                 

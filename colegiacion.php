@@ -64,6 +64,7 @@
                                         <div class="tab-pane fade active in" id="features">
                                             <ul class="course-feature">
                                                 <li>Solicitud de inscripción llena</li>
+                                                <li>Recibo de Pago</li>
                                                 <li>Título original</li>
                                                 <li>Dos fotocopias tamaño carta del título</li>
                                                 <li>Fotocopia de la certificación de notas</li>

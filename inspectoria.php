@@ -24,7 +24,7 @@
                         <div class="service-box-icon">
                             <a href="#"><i class="fa fa-edit" aria-hidden="true"></i></a>
                         </div>
-                        <h3><a href="#">Licencia de regencia (En línea)</a></h3>
+                        <h3><a target="_blank" href="http://www.sistemaderegencias.com/">Licencia de regencia (En línea)</a></h3>
                         <p>Mas detalles</p>
                     </div>
                 </div>
@@ -33,7 +33,7 @@
                         <div class="service-box-icon">
                             <a href="#"><i class="fa fa-edit" aria-hidden="true"></i></a>
                         </div>
-                        <h3><a href="#">Renovación de licencia de regencia (En línea)</a></h3>
+                        <h3><a target="_blank" href="http://www.sistemaderegencias.com/">Renovación de licencia de regencia (En línea)</a></h3>
                         <p>Mas detalles</p>
                     </div>
                 </div>
@@ -85,7 +85,10 @@
 
     </div> <!--End Of Wraper-->
 
-</body>
+    <div align="center" id="sfcwnz3qatzwy945sdtcm49ntedrud1sle1"></div>
+        <script type="text/javascript" src="https://counter2.wheredoyoucomefrom.ovh/private/counter.js?c=wnz3qatzwy945sdtcm49ntedrud1sle1&down=async" async></script>
+     <noscript><a href="https://www.freecounterstat.com" title="website counter"><img src="https://counter2.wheredoyoucomefrom.ovh/private/freecounterstat.php?c=wnz3qatzwy945sdtcm49ntedrud1sle1" border="0" title="website counter" alt="website counter"></a></noscript>
+    </body>
 
  <!-- Main Body Area End Here -->
  <?php
