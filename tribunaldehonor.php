@@ -28,7 +28,7 @@
                 <div class="single-item">
                     <div class="lecturers1-item-wrapper">
                         <div class="lecturers-img-wrapper">
-                            <a href="#"><img class="img-responsive" src="img/testimonios/3.jpg" alt="team"></a>
+                            <a href="#"><img class="img-responsive" src="img/testimonios/user.jpg" alt="team"></a>
                         </div>
                         <div class="lecturers-content-wrapper">
                             <h3 class="item-title"><a href="#">Presidente</a></h3>
@@ -46,7 +46,7 @@
                 <div class="single-item">
                     <div class="lecturers1-item-wrapper">
                         <div class="lecturers-img-wrapper">
-                            <a href="#"><img class="img-responsive" src="img/testimonios/5.jpg" alt="team"></a>
+                            <a href="#"><img class="img-responsive" src="img/testimonios/user.jpg" alt="team"></a>
                         </div>
                         <div class="lecturers-content-wrapper">
                             <h3 class="item-title"><a href="#">Secretaria</a></h3>
@@ -64,7 +64,7 @@
                 <div class="single-item">
                     <div class="lecturers1-item-wrapper">
                         <div class="lecturers-img-wrapper">
-                            <a href="#"><img class="img-responsive" src="img/testimonios/7.jpg" alt="team"></a>
+                            <a href="#"><img class="img-responsive" src="img/testimonios/user.jpg" alt="team"></a>
                         </div>
                         <div class="lecturers-content-wrapper">
                             <h3 class="item-title"><a href="#">Vocal</a></h3>
@@ -82,7 +82,7 @@
                 <div class="single-item">
                     <div class="lecturers1-item-wrapper">
                         <div class="lecturers-img-wrapper">
-                            <a href="#"><img class="img-responsive" src="img/testimonios/9.jpg" alt="team"></a>
+                            <a href="#"><img class="img-responsive" src="img/testimonios/user.jpg" alt="team"></a>
                         </div>
                         <div class="lecturers-content-wrapper">
                             <h3 class="item-title"><a href="#">Vocal</a></h3>
@@ -104,7 +104,7 @@
                 <div class="single-item">
                     <div class="lecturers1-item-wrapper">
                         <div class="lecturers-img-wrapper">
-                            <a href="#"><img class="img-responsive" src="img/testimonios/10.jpg" alt="team"></a>
+                            <a href="#"><img class="img-responsive" src="img/testimonios/user.jpg" alt="team"></a>
                         </div>
                         <div class="lecturers-content-wrapper">
                             <h3 class="item-title"><a href="#">Vocal</a></h3>
@@ -121,7 +121,7 @@
                 <div class="single-item">
                     <div class="lecturers1-item-wrapper">
                         <div class="lecturers-img-wrapper">
-                            <a href="#"><img class="img-responsive" src="img/testimonios/11.jpg" alt="team"></a>
+                            <a href="#"><img class="img-responsive" src="img/testimonios/user.jpg" alt="team"></a>
                         </div>
                         <div class="lecturers-content-wrapper">
                             <h3 class="item-title"><a href="#">Vocal</a></h3>
@@ -138,7 +138,7 @@
                 <div class="single-item">
                     <div class="lecturers1-item-wrapper">
                         <div class="lecturers-img-wrapper">
-                            <a href="#"><img class="img-responsive" src="img/testimonios/6.jpg" alt="team"></a>
+                            <a href="#"><img class="img-responsive" src="img/testimonios/user.jpg" alt="team"></a>
                         </div>
                         <div class="lecturers-content-wrapper">
                             <h3 class="item-title"><a href="#">Vocal</a></h3>
