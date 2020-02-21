@@ -14,7 +14,7 @@
  <div class="price-table1-area">
     <div class="container">
         <div class="row" align="center">
-            <div class="col-lg-5 col-md-5 col-sm-5 col-xs-12">
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
                 <div class="price-table-box1">
                     <span>Leyes y Reglamentos</span>
                     <div class="price-table-service">
@@ -28,7 +28,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-5 col-md-5 col-sm-5 col-xs-12">
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
                 <div class="price-table-box1">
                     <span>Informes</span>
                     <div class="price-table-service">
@@ -40,6 +40,15 @@
                         <a href=""> <p>Informe periodo 2016-2017</p></a>
                         <a href=""> <p>Informe periodo 2017-2018</p></a>
                         <a href=""> <p>Informe periodo 2018-2019</p></a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                <div class="price-table-box1">
+                    <span>Licitaciones 2020</span>
+                    <div class="price-table-service">
+                        <a href="files/LISTADO_DE_LICITACIONES_SESAL_ENERO-2020.pdf"> <p>Licitación Sesal Enero 2020</p></a>
                     </div>
                 </div>
             </div>
