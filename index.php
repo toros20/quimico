@@ -231,7 +231,7 @@
                     <div class="single-item">
                         <div class="single-item-wrapper">
                             <div class="profile-img-wrapper">
-                                <a href="#" class="profile-img"><img class="profile-img-responsive img-circle" src="img/testimonios/5.jpg" alt="Testimonial"></a>
+                                <a href="#" class="profile-img"><img class="profile-img-responsive img-circle" src="" alt="Testimonial"></a>
                             </div>
                             <div class="tlp-tm-content-wrapper">
                                 <h3 class="item-title"><a href="#">Rosy Janner</a></h3>
@@ -250,7 +250,7 @@
                     <div class="single-item">
                         <div class="single-item-wrapper">
                             <div class="profile-img-wrapper">
-                                <a href="#" class="profile-img"><img class="profile-img-responsive img-circle" src="img/testimonios/2.jpg" alt="Testimonial"></a>
+                                <a href="#" class="profile-img"><img class="profile-img-responsive img-circle" src="" alt="Testimonial"></a>
                             </div>
                             <div class="tlp-tm-content-wrapper">
                                 <h3 class="item-title"><a href="#">Dainel Dina</a></h3>
@@ -269,7 +269,7 @@
                     <div class="single-item">
                         <div class="single-item-wrapper">
                             <div class="profile-img-wrapper">
-                                <a href="#" class="profile-img"><img class="profile-img-responsive img-circle" src="img/testimonios/3.jpg" alt="Testimonial"></a>
+                                <a href="#" class="profile-img"><img class="profile-img-responsive img-circle" src="" alt="Testimonial"></a>
                             </div>
                             <div class="tlp-tm-content-wrapper">
                                 <h3 class="item-title"><a href="#">Rosy Janner</a></h3>
@@ -288,7 +288,7 @@
                     <div class="single-item">
                         <div class="single-item-wrapper">
                             <div class="profile-img-wrapper">
-                                <a href="#" class="profile-img"><img class="profile-img-responsive img-circle" src="img/testimonios/4.jpg" alt="Testimonial"></a>
+                                <a href="#" class="profile-img"><img class="profile-img-responsive img-circle" src="" alt="Testimonial"></a>
                             </div>
                             <div class="tlp-tm-content-wrapper">
                                 <h3 class="item-title"><a href="#">Dainel Dina</a></h3>
@@ -307,7 +307,7 @@
                     <div class="single-item">
                         <div class="single-item-wrapper">
                             <div class="profile-img-wrapper">
-                                <a href="#" class="profile-img"><img class="profile-img-responsive img-circle" src="img/testimonios/5.jpg" alt="Testimonial"></a>
+                                <a href="#" class="profile-img"><img class="profile-img-responsive img-circle" src="" alt="Testimonial"></a>
                             </div>
                             <div class="tlp-tm-content-wrapper">
                                 <h3 class="item-title"><a href="#">Rosy Janner</a></h3>
@@ -326,7 +326,7 @@
                     <div class="single-item">
                         <div class="single-item-wrapper">
                             <div class="profile-img-wrapper">
-                                <a href="#" class="profile-img"><img class="profile-img-responsive img-circle" src="img/testimonios/2.jpg" alt="Testimonial"></a>
+                                <a href="#" class="profile-img"><img class="profile-img-responsive img-circle" src="" alt="Testimonial"></a>
                             </div>
                             <div class="tlp-tm-content-wrapper">
                                 <h3 class="item-title"><a href="#">Dainel Dina</a></h3>
@@ -354,34 +354,7 @@
                         <div id="ri-grid" class="author-banner-bg ri-grid header text-center">
                             <ul class="ri-grid-list">
                                 <li>
-                                    <a href="#"><img src="img/testimonios/2.jpg" alt=""></a>
-                                </li>
-                                <li>
-                                    <a href="#"><img src="img/testimonios/3.jpg" alt=""></a>
-                                </li>
-                                <li>
-                                    <a href="#"><img src="img/testimonios/4.jpg" alt=""></a>
-                                </li>
-                                <li>
-                                    <a href="#"><img src="img/testimonios/5.jpg" alt=""></a>
-                                </li>
-                                <li>
-                                    <a href="#"><img src="img/testimonios/6.jpg" alt=""></a>
-                                </li>
-                                <li>
-                                    <a href="#"><img src="img/testimonios/7.jpg" alt=""></a>
-                                </li>
-                                <li>
-                                    <a href="#"><img src="img/testimonios/8.jpg" alt=""></a>
-                                </li>
-                                <li>
-                                    <a href="#"><img src="img/testimonios/9.jpg" alt=""></a>
-                                </li>
-                                <li>
-                                    <a href="#"><img src="img/testimonios/10.jpg" alt=""></a>
-                                </li>
-                                <li>
-                                    <a href="#"><img src="img/testimonios/11.jpg" alt=""></a>
+                                    <a href="#"><img src="img/testimonios/1.jpg" alt=""></a>
                                 </li>
                                 <li>
                                     <a href="#"><img src="img/testimonios/2.jpg" alt=""></a>
@@ -414,39 +387,165 @@
                                     <a href="#"><img src="img/testimonios/11.jpg" alt=""></a>
                                 </li>
                                 <li>
-                                    <a href="#"><img src="img/testimonios/2.jpg" alt=""></a>
+                                    <a href="#"><img src="img/testimonios/12.jpg" alt=""></a>
                                 </li>
                                 <li>
-                                    <a href="#"><img src="img/testimonios/2.jpg" alt=""></a>
+                                    <a href="#"><img src="img/testimonios/13.jpg" alt=""></a>
                                 </li>
                                 <li>
-                                    <a href="#"><img src="img/testimonios/3.jpg" alt=""></a>
+                                    <a href="#"><img src="img/testimonios/14.jpg" alt=""></a>
                                 </li>
                                 <li>
-                                    <a href="#"><img src="img/testimonios/4.jpg" alt=""></a>
+                                    <a href="#"><img src="img/testimonios/15.jpg" alt=""></a>
                                 </li>
                                 <li>
-                                    <a href="#"><img src="img/testimonios/5.jpg" alt=""></a>
+                                    <a href="#"><img src="img/testimonios/16.jpg" alt=""></a>
                                 </li>
                                 <li>
-                                    <a href="#"><img src="img/testimonios/6.jpg" alt=""></a>
+                                    <a href="#"><img src="img/testimonios/17.jpg" alt=""></a>
                                 </li>
                                 <li>
-                                    <a href="#"><img src="img/testimonios/7.jpg" alt=""></a>
+                                    <a href="#"><img src="img/testimonios/18.jpg" alt=""></a>
                                 </li>
                                 <li>
-                                    <a href="#"><img src="img/testimonios/8.jpg" alt=""></a>
+                                    <a href="#"><img src="img/testimonios/19.jpg" alt=""></a>
                                 </li>
                                 <li>
-                                    <a href="#"><img src="img/testimonios/2.jpg" alt=""></a>
+                                    <a href="#"><img src="img/testimonios/20.jpg" alt=""></a>
                                 </li>
                                 <li>
-                                    <a href="#"><img src="img/testimonios/3.jpg" alt=""></a>
+                                    <a href="#"><img src="img/testimonios/21.jpg" alt=""></a>
                                 </li>
                                 <li>
-                                    <a href="#"><img src="img/testimonios/4.jpg" alt=""></a>
+                                    <a href="#"><img src="img/testimonios/22.jpg" alt=""></a>
                                 </li>
-                                
+                                <li>
+                                    <a href="#"><img src="img/testimonios/23.jpg" alt=""></a>
+                                </li>
+                                <li>
+                                    <a href="#"><img src="img/testimonios/24.jpg" alt=""></a>
+                                </li>
+                                <li>
+                                    <a href="#"><img src="img/testimonios/25.jpg" alt=""></a>
+                                </li>
+                                <li>
+                                    <a href="#"><img src="img/testimonios/26.jpg" alt=""></a>
+                                </li>
+                                <li>
+                                    <a href="#"><img src="img/testimonios/27.jpg" alt=""></a>
+                                </li>
+                                <li>
+                                    <a href="#"><img src="img/testimonios/28.jpg" alt=""></a>
+                                </li>
+                                <li>
+                                    <a href="#"><img src="img/testimonios/29.jpg" alt=""></a>
+                                </li>
+                                <li>
+                                    <a href="#"><img src="img/testimonios/30.jpg" alt=""></a>
+                                </li>
+                                <li>
+                                    <a href="#"><img src="img/testimonios/31.jpg" alt=""></a>
+                                </li>
+                                <li>
+                                    <a href="#"><img src="img/testimonios/32.jpg" alt=""></a>
+                                </li>
+                                <li>
+                                    <a href="#"><img src="img/testimonios/33.jpg" alt=""></a>
+                                </li>
+                                <li>
+                                    <a href="#"><img src="img/testimonios/34.jpg" alt=""></a>
+                                </li>
+                                <li>
+                                    <a href="#"><img src="img/testimonios/35.jpg" alt=""></a>
+                                </li>
+                                <li>
+                                    <a href="#"><img src="img/testimonios/36.jpg" alt=""></a>
+                                </li>
+                                <li>
+                                    <a href="#"><img src="img/testimonios/37.jpg" alt=""></a>
+                                </li>
+                                <li>
+                                    <a href="#"><img src="img/testimonios/38.jpg" alt=""></a>
+                                </li>
+                                <li>
+                                    <a href="#"><img src="img/testimonios/39.jpg" alt=""></a>
+                                </li>
+                                <li>
+                                    <a href="#"><img src="img/testimonios/40.jpg" alt=""></a>
+                                </li>
+                                <li>
+                                    <a href="#"><img src="img/testimonios/41.jpg" alt=""></a>
+                                </li>
+                                <li>
+                                    <a href="#"><img src="img/testimonios/42.jpg" alt=""></a>
+                                </li>
+                                <li>
+                                    <a href="#"><img src="img/testimonios/43.jpg" alt=""></a>
+                                </li>
+                                <li>
+                                    <a href="#"><img src="img/testimonios/44.jpg" alt=""></a>
+                                </li>
+                                <li>
+                                    <a href="#"><img src="img/testimonios/45.jpg" alt=""></a>
+                                </li>
+                                <li>
+                                    <a href="#"><img src="img/testimonios/46.jpg" alt=""></a>
+                                </li>
+                                <li>
+                                    <a href="#"><img src="img/testimonios/47.jpg" alt=""></a>
+                                </li>
+                                <li>
+                                    <a href="#"><img src="img/testimonios/48.jpg" alt=""></a>
+                                </li>
+                                <li>
+                                    <a href="#"><img src="img/testimonios/49.jpg" alt=""></a>
+                                </li>
+                                <li>
+                                    <a href="#"><img src="img/testimonios/50.jpg" alt=""></a>
+                                </li>
+                                <li>
+                                    <a href="#"><img src="img/testimonios/51.jpg" alt=""></a>
+                                </li>
+                                <li>
+                                    <a href="#"><img src="img/testimonios/52.jpg" alt=""></a>
+                                </li>
+                                <li>
+                                    <a href="#"><img src="img/testimonios/53.jpg" alt=""></a>
+                                </li>
+                                <li>
+                                    <a href="#"><img src="img/testimonios/54.jpg" alt=""></a>
+                                </li>
+                                <li>
+                                    <a href="#"><img src="img/testimonios/55.jpg" alt=""></a>
+                                </li>
+                                <li>
+                                    <a href="#"><img src="img/testimonios/56.jpg" alt=""></a>
+                                </li>
+                                <li>
+                                    <a href="#"><img src="img/testimonios/57.jpg" alt=""></a>
+                                </li>
+                                <li>
+                                    <a href="#"><img src="img/testimonios/58.jpg" alt=""></a>
+                                </li>
+                                <li>
+                                    <a href="#"><img src="img/testimonios/59.jpg" alt=""></a>
+                                </li>
+                                <li>
+                                    <a href="#"><img src="img/testimonios/60.jpg" alt=""></a>
+                                </li>
+                                <li>
+                                    <a href="#"><img src="img/testimonios/61.jpg" alt=""></a>
+                                </li>
+                                <li>
+                                    <a href="#"><img src="img/testimonios/62.jpg" alt=""></a>
+                                </li>
+                                <li>
+                                    <a href="#"><img src="img/testimonios/63.jpg" alt=""></a>
+                                </li>
+                                <li>
+                                    <a href="#"><img src="img/testimonios/64.jpg" alt=""></a>
+                                </li>
+                               
                             </ul>
                         </div>
                     </div>
