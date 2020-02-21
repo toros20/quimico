@@ -116,7 +116,7 @@
 
                             <li>
                                 <div class="news-img-holder">
-                                    <a href="galeria_juramentacion_02_2020.php"><img src="img/juramentacion_02_2020/10.PNG" class="img-responsive" style="width:90%"></a>
+                                    <a href="galeria_juramentacion_02_2020.php"><img src="img/juramentacion_02_2020/10.png" class="img-responsive" style="width:90%"></a>
                                 </div>
                                 <div class="news-content-holder">
                                     <h3><a href="galeria_juramentacion_02_2020.php">Juramentación 2020</a></h3>

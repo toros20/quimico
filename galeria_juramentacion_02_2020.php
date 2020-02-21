@@ -22,41 +22,41 @@
         <div class="row featuredContainer gallery-wrapper">
             <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 library auditoriam">
                 <div class="gallery-box">
-                    <img src="img/juramentacion_02_2020/1.PNG" class="img-responsive" alt="gallery">
+                    <img src="img/juramentacion_02_2020/1.png" class="img-responsive" alt="gallery">
                     <div class="gallery-content">
-                        <a href="img/juramentacion_02_2020/1.PNG" class="zoom"><i class="fa fa-link" aria-hidden="true"></i></a>
+                        <a href="img/juramentacion_02_2020/1.png" class="zoom"><i class="fa fa-link" aria-hidden="true"></i></a>
                     </div>
                 </div>
             </div>
             <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 room auditoriam campus">
                 <div class="gallery-box">
-                    <img src="img/juramentacion_02_2020/2.PNG" class="img-responsive" alt="gallery">
+                    <img src="img/juramentacion_02_2020/2.png" class="img-responsive" alt="gallery">
                     <div class="gallery-content">
-                        <a href="img/juramentacion_02_2020/2.PNG" class="zoom"><i class="fa fa-link" aria-hidden="true"></i></a>
+                        <a href="img/juramentacion_02_2020/2.png" class="zoom"><i class="fa fa-link" aria-hidden="true"></i></a>
                     </div>
                 </div>
             </div>
             <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 library room campus">
                 <div class="gallery-box">
-                    <img src="img/juramentacion_02_2020/3.PNG" class="img-responsive" alt="gallery">
+                    <img src="img/juramentacion_02_2020/3.png" class="img-responsive" alt="gallery">
                     <div class="gallery-content">
-                        <a href="img/juramentacion_02_2020/3.PNG" class="zoom"><i class="fa fa-link" aria-hidden="true"></i></a>
+                        <a href="img/juramentacion_02_2020/3.png" class="zoom"><i class="fa fa-link" aria-hidden="true"></i></a>
                     </div>
                 </div>
             </div>
             <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 library auditoriam">
                 <div class="gallery-box">
-                    <img src="img/juramentacion_02_2020/4.PNG" class="img-responsive" alt="gallery">
+                    <img src="img/juramentacion_02_2020/4.png" class="img-responsive" alt="gallery">
                     <div class="gallery-content">
-                        <a href="img/juramentacion_02_2020/4.PNG" class="zoom"><i class="fa fa-link" aria-hidden="true"></i></a>
+                        <a href="img/juramentacion_02_2020/4.png" class="zoom"><i class="fa fa-link" aria-hidden="true"></i></a>
                     </div>
                 </div>
             </div>
             <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 room auditoriam class">
                 <div class="gallery-box">
-                    <img src="img/juramentacion_02_2020/5.PNG" class="img-responsive" alt="gallery">
+                    <img src="img/juramentacion_02_2020/5.png" class="img-responsive" alt="gallery">
                     <div class="gallery-content">
-                        <a href="img/juramentacion_02_2020/5.PNG" class="zoom"><i class="fa fa-link" aria-hidden="true"></i></a>
+                        <a href="img/juramentacion_02_2020/5.png" class="zoom"><i class="fa fa-link" aria-hidden="true"></i></a>
                     </div>
                 </div>
             </div>
@@ -78,41 +78,41 @@
             </div>
             <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 room auditoriam class">
                 <div class="gallery-box">
-                    <img src="img/juramentacion_02_2020/8.PNG" class="img-responsive" alt="gallery">
+                    <img src="img/juramentacion_02_2020/8.png" class="img-responsive" alt="gallery">
                     <div class="gallery-content">
-                        <a href="img/juramentacion_02_2020/8.PNG" class="zoom"><i class="fa fa-link" aria-hidden="true"></i></a>
+                        <a href="img/juramentacion_02_2020/8.png" class="zoom"><i class="fa fa-link" aria-hidden="true"></i></a>
                     </div>
                 </div>
             </div>
             <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 room auditoriam class">
                 <div class="gallery-box">
-                    <img src="img/juramentacion_02_2020/9.PNG" class="img-responsive" alt="gallery">
+                    <img src="img/juramentacion_02_2020/9.png" class="img-responsive" alt="gallery">
                     <div class="gallery-content">
-                        <a href="img/juramentacion_02_2020/9.PNG" class="zoom"><i class="fa fa-link" aria-hidden="true"></i></a>
+                        <a href="img/juramentacion_02_2020/9.png" class="zoom"><i class="fa fa-link" aria-hidden="true"></i></a>
                     </div>
                 </div>
             </div>
             <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 room auditoriam class">
                 <div class="gallery-box">
-                    <img src="img/juramentacion_02_2020/10.PNG" class="img-responsive" alt="gallery">
+                    <img src="img/juramentacion_02_2020/10.png" class="img-responsive" alt="gallery">
                     <div class="gallery-content">
-                        <a href="img/juramentacion_02_2020/10.PNG" class="zoom"><i class="fa fa-link" aria-hidden="true"></i></a>
+                        <a href="img/juramentacion_02_2020/10.png" class="zoom"><i class="fa fa-link" aria-hidden="true"></i></a>
                     </div>
                 </div>
             </div>
             <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 room auditoriam class">
                 <div class="gallery-box">
-                    <img src="img/juramentacion_02_2020/11.PNG" class="img-responsive" alt="gallery">
+                    <img src="img/juramentacion_02_2020/11.png" class="img-responsive" alt="gallery">
                     <div class="gallery-content">
-                        <a href="img/juramentacion_02_2020/11.PNG" class="zoom"><i class="fa fa-link" aria-hidden="true"></i></a>
+                        <a href="img/juramentacion_02_2020/11.png" class="zoom"><i class="fa fa-link" aria-hidden="true"></i></a>
                     </div>
                 </div>
             </div>
             <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 room auditoriam class">
                 <div class="gallery-box">
-                    <img src="img/juramentacion_02_2020/12.PNG" class="img-responsive" alt="gallery">
+                    <img src="img/juramentacion_02_2020/12.png" class="img-responsive" alt="gallery">
                     <div class="gallery-content">
-                        <a href="img/juramentacion_02_2020/12.PNG" class="zoom"><i class="fa fa-link" aria-hidden="true"></i></a>
+                        <a href="img/juramentacion_02_2020/12.png" class="zoom"><i class="fa fa-link" aria-hidden="true"></i></a>
                     </div>
                 </div>
             </div>
