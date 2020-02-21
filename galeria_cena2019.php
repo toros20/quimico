@@ -12,7 +12,7 @@
  <!-- About 2 Area Start Here -->
  <div class="about2-area" style="padding: 20px 0;">
     <div class="container">
-        <h1 class="about-title">Ceremonia de Acreditación</h1>
+        <h1 class="about-title">Cena Navideña 2019</h1>
     </div>
 </div>
 <!-- Gallery Area 2 Start Here -->

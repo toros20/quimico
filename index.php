@@ -113,6 +113,17 @@
                     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 news-inner-area">
                         <h2 class="title-default-left">Últimos Eventos</h2>
                         <ul class="news-wrapper">
+
+                            <li>
+                                <div class="news-img-holder">
+                                    <a href="galeria_juramentacion_02_2020.php"><img src="img/juramentacion_02_2020/10.PNG" class="img-responsive" style="width:90%"></a>
+                                </div>
+                                <div class="news-content-holder">
+                                    <h3><a href="galeria_juramentacion_02_2020.php">Juramentación 2020</a></h3>
+                                    <div class="post-date">11 de Febrero, 2020</div>
+                                    <p>Celebración de 68 nuevos agremiados</p>
+                                </div>
+                            </li>
                             <li>
                                 <div class="news-img-holder">
                                     <a href="galeria_cena2019.php"><img src="img/cena2019/2.jpg" class="img-responsive" style="width:90%"></a>
@@ -124,16 +135,7 @@
                                 </div>
                             </li>
                             
-                            <li>
-                                <div class="news-img-holder">
-                                    <a href="#"><img src="img/news/3.jpg" class="img-responsive" alt="news"></a>
-                                </div>
-                                <div class="news-content-holder">
-                                    <h3><a href="single-news.html">Almuerzo para Jubilados</a></h3>
-                                    <div class="post-date">7 de Diciembre, 2019</div>
-                                    <p>Celebración por parte de la Junta Administradora del Fondo de Auxilio Mutuo.</p>
-                                </div>
-                            </li>
+                           
 
                             <li>
                                 <div class="news-img-holder">
@@ -151,21 +153,21 @@
                         </div> -->
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 event-inner-area">
-                        <h2 class="title-default-left">Próximos Eventos</h2>
+                        <h2 class="title-default-left">Más Eventos</h2>
                         <ul class="event-wrapper">
                             <li class="wow bounceInUp" data-wow-duration="2s" data-wow-delay=".1s">
                                 <div class="event-calender-wrapper">
                                     <div class="event-calender-holder">
-                                        <h3>26</h3>
-                                        <p>Ene</p>
+                                        <h3>11</h3>
+                                        <p>Feb</p>
                                         <span>2020</span>
                                     </div>
                                 </div>
                                 <div class="event-content-holder">
-                                    <h3><a href="single-event.html">Juramentación de nuevos colegiados </a></h3>
-                                    <p>Pellentese turpis dignissim amet area ducation process facilitating Knowledge. Pellentese turpis dignissim amet area ducation process facilitating Knowledge. Pellentese turpis dignissim amet area ducation.</p>
+                                    <h3><a href="single-event.html">Juramentación 2020</a></h3>
+                                    <p>Juramentación de 68 nuevos colegiados.</p>
                                     <ul>
-                                        <li>04:00 PM - 06:00 PM</li>
+                                        <!-- <li>04:00 PM - 06:00 PM</li> -->
                                         <li>Tegucigalpa</li>
                                     </ul>
                                 </div>
